@@ -1,0 +1,19 @@
+The elevator has decided to go Down first, since the first request is from External request to floor 1 (Up)
+
+First the elevator will go Down
+Elevator moved Down to floor 2
+Doors opened
+Doors closed
+Elevator moved Down to floor 1
+Doors opened
+Doors closed
+Elevator moved Up to floor 2
+Elevator moved Up to floor 3
+Doors opened
+Doors closed
+Elevator moved Up to floor 4
+Doors opened
+Doors closed
+Elevator moved Up to floor 5
+Doors opened
+Doors closed
